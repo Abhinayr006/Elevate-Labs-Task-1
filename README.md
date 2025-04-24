@@ -16,7 +16,7 @@ Clean and prepare the Titanic dataset for machine learning using Jupyter Noteboo
 5. Visualized outliers with boxplots for `Age` and `Fare` before and after removing outliers for both columns using the IQR method (final shape: 718 rows).
 
 ## Files
-- `titanic_preprocessing.ipynb`: Jupyter Notebook with code.
+- `ElevateLabs Task1.ipynb`: Jupyter Notebook with code.
 - `Titanic-Dataset.csv`: Original dataset.
 - `cleaned_titanic.csv`: Cleaned dataset (718 rows, 9 columns).
 - `boxplots_before.png`: Boxplots for `Age` and `Fare` before outlier removal.
