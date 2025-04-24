@@ -24,8 +24,3 @@ Clean and prepare the Titanic dataset for machine learning using Jupyter Noteboo
 
 ## Tools
 - Jupyter Notebook, Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
-
-## How to Run
-1. Install libraries: `pip install pandas numpy matplotlib seaborn scikit-learn`
-2. Place `Titanic-Dataset.csv` in the same folder as the notebook.
-3. Open and run `titanic_preprocessing.ipynb` in Jupyter Notebook.
